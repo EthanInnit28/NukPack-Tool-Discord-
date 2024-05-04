@@ -1,3 +1,9 @@
+<!-- NukPack LOGO -->
+<p align="center">
+  <a href="https://github.com/EthanInnit28/NukPack-Tool-Discord-.git">
+   <img src="https://github.com/EthanInnit28/NukPack-Tool-Discord-/assets/165567010/35390115-e0f8-45ef-9990-6500b3916d00" height="300" alt="Logo">
+  </a>
+
 <h1 align="center">⚫ NukPack Tool ⚫</h1> 
 <p align="center">
   
