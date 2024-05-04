@@ -1,0 +1,7 @@
+name_tool = "NukPack"
+version_tool = "BETA"
+coding_tool = "Python 3"
+language_tool = "EN"
+creator = "Ethan"
+creator_discord = "sono3than"
+discord_server = "discord.gg/nukpacksq"
